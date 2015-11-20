@@ -1,0 +1,70 @@
+﻿body {
+    background-image: url(Images/background-2.jpg);
+    font-family: 'Varela', sans-serif;
+}
+
+h1 {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+}
+
+h3 {
+  font-size: 15px;
+  color: Red;
+}
+
+.myLinks {  
+  color: red;
+}
+
+.widelabel {
+  display:inline-block;
+  width: 75px;
+  font:bold;
+  font-size:20px;
+  color:rgb(255, 0, 0);
+}
+
+#mainPageHolder {
+    border-radius:5px 6px;
+    width:800px;
+    padding:10px 30px 30px 30px;
+    opacity:0.7;
+    background-color:rgb(237, 228, 228);
+    margin:10px auto;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+#masterTitle {
+    border-bottom: 3px solid red;
+    height:65px;
+    margin-bottom:20px;
+    text-shadow:10px 10px 10px rgba(255, 0, 0, 0.5);
+}
+
+.title {
+    text-align:center;
+}
+.addDVD {
+    padding: 20px;
+    border:3px solid red;
+    border-radius:5px 6px;
+    width:475px;
+    
+}
+
+.copyRight {
+    color:white;
+    text-align:center;
+}
+
+.underground {
+    font-family: 'Rock Salt', cursive;
+}
+
+#mainMenu {
+    width: 855px;
+    margin: 0 auto;
+    text-align: center;
+}
+

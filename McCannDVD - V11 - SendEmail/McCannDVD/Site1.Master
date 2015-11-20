@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="McCannDVD.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link rel ="stylesheet" type ="text/css" href ="styleSheet1.css"/>
+
+    <link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css' />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="mainMenu">
+            <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu"
+                EnableViewState="False" IncludeStyleBlock="true"
+                StaticSubMenuIndent="16px" Orientation="Horizontal" margin-top="20px"
+                StaticMenuItemStyle-Font-Underline="true"
+                StaticHoverStyle-Font-Bold="true" StaticHoverStyle-ForeColor="Red" StaticMenuItemStyle-ForeColor="White">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/default.aspx" Text="Home" />
+                    <asp:MenuItem Text="  " />
+                    <asp:MenuItem Text="Admin Tools">
+                        <asp:MenuItem NavigateUrl="~/Admin/AddDVD.aspx" Text=" Add DVD " />
+                        <asp:MenuItem NavigateUrl="~/Admin/EditDVD.aspx" Text=" Edit DVD " />
+                        <asp:MenuItem NavigateUrl="~/Admin/Reports.aspx" Text=" Reports " />
+                    </asp:MenuItem>
+                </Items>
+                <StaticMenuItemStyle VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="#c0c0c0" />
+                <DynamicSelectedStyle BackColor="#507CD1" />
+                <DynamicMenuItemStyle VerticalPadding="2px" ForeColor="Black" />
+                <DynamicHoverStyle BackColor="#999999" Font-Bold="true" ForeColor="Red"/>
+            </asp:Menu>
+        </div>
+    <div id="mainPageHolder">
+        
+        <%--code goes here--%>
+       <div id="masterTitle">
+        <h1 class="title"><span class="underground">Digital Underground</span> DVD Store</h1>
+       </div>
+
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+     
+        </asp:ContentPlaceHolder>
+
+        <%--or code goes here--%>
+        
+            
+
+    </div>
+        <p class="copyRight"> Copyright 2015 Caleb McCann Enterprises</p>
+    </form>
+</body>
+</html>

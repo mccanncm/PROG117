@@ -1,0 +1,240 @@
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\csc.exe
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\vbc.exe
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\McCannDVD.dll.config
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\McCannDVD.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\McCannDVD.pdb
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\obj\Debug\McCannDVD.dll
+C:\Users\caleb.mccann\Desktop\C#\McCannDVD\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V3\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V3\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V3\McCannDVD\obj\Debug\McCannDVD.pdb
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\csc.exe
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\vbc.exe
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\VBCSCompiler.exe
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\McCannDVD.dll.config
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\McCannDVD.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\McCannDVD.pdb
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\PROG117\McCannDVD - V4\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+G:\PROG117\McCannDVD - V4\McCannDVD\obj\Debug\McCannDVD.dll
+G:\PROG117\McCannDVD - V4\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V4\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V4\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V4\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V5\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V5\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V5\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V5 - SV1\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V7\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V7\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V7\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V8\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V8\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V8\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V9\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V9\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V9\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V10\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V10\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V10\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V10 - AdminTab\McCannDVD\obj\Debug\McCannDVD.pdb
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\csc.exe
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\System.Collections.Immutable.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\vbc.exe
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\VBCSCompiler.exe
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\roslyn\VBCSCompiler.exe.config
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\McCannDVD.dll.config
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\McCannDVD.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\McCannDVD.pdb
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\obj\Debug\McCannDVD.csprojResolveAssemblyReference.cache
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\obj\Debug\McCannDVD.dll
+E:\PROG117\McCannDVD - V11 - SendEmail\McCannDVD\obj\Debug\McCannDVD.pdb
